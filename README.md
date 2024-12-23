@@ -1,5 +1,6 @@
 # Hi there, I'm Aditya! 👋
 Welcome to my GitHub profile!
+I'm A CTF player, named "Kurond" or something related to that focused on pwn and reverse engineering, and a game developer. Focused learning on Low-level programming
 
 
 <div align="center">
