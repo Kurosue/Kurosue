@@ -1,7 +1,11 @@
-# Hi there, I'm Aditya! 👋
-Welcome to my GitHub profile!
-I'm A CTF player, named "Kurond" or something related to that focused on pwn and reverse engineering, and a game developer. Focused learning on Low-level programming
+# Hi there, I'm Aditya
+Welcome to my personal github page !
 
+# Introduction
+I'm, Muhammad Aditya Rahmadeni, Second year undergraduate CS student at ITB and 
+- CTF player, named "Kurond" or something related to that focused on pwn and reverse engineering.
+- A game developer.
+- Focused learning on Low-level programming.
 
 <div align="center">
   <h2>GitHub Stats</h2>
