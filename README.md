@@ -11,5 +11,4 @@ I'm, Muhammad Aditya Rahmadeni, second year undergraduate CS student at ITB and
   <h2>GitHub Stats</h2>
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurosue&show_icons=true&theme=radical)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Kurosue)](https://git.io/streak-stats)
 </div>
