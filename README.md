@@ -12,11 +12,12 @@
 <div align="center">
   <h4 align="justify"> My name is Muhammad Aditya Rahmadneni. A CTF player named "Kurond" or something related to that and A Game Developer.
   <p>
-   
+    
   </p>
   </h4>
 </div>
 
+---
 <br>
 <h2 align="left"> 📱 Tech Stack & Skills </h2>
 <br/>
@@ -43,12 +44,4 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kurosue&theme=dracula&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-  <a href="https://codeforces.com/profile/Kurond">
-    <img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" />
-  </a>
 </div>
