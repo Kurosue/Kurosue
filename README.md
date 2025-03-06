@@ -17,7 +17,6 @@
   </h4>
 </div>
 
----
 <br>
 <h2 align="left"> 📱 Tech Stack & Skills </h2>
 <br/>
