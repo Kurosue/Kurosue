@@ -10,7 +10,7 @@
 ---
 <h2 align="left"> 🙌 Introduction</h2>
 <div align="center">
-  <h4 align="justify"> My name is Muhammad Aditya Rahmadneni. A CTF player named "Kurond" or something related to that and A Game Developer.
+  <h4 align="justify"> My name is Muhammad Aditya Rahmadeni. A CTF player named "Kurond",or something related to that, and A Game Developer.
   <p>
     
   </p>
