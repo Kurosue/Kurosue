@@ -8,40 +8,23 @@
 </div>
 
 ---
-
-<h2 align="center">🛠️ Skills</h2>
-
+<h2 align="left"> 🙌 Introduction</h2>
 <div align="center">
+  <h4 align="justify"> My name is Muhammad Aditya Rahmadneni. A CTF player named "Kurond" or something related to that and A Game Developer.
+  <p>
+   
+  </p>
+  </h4>
+</div>
 
-  ### CyberSecurity
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Penetration_Testing-9C27B0?style=for-the-badge&logo=kalilinux&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Reverse_Engineering-FF9800?style=for-the-badge&logo=ghidra&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Binary_Exploitation-795548?style=for-the-badge&logo=pwntools&logoColor=white" /> 
-
-  ### Programming Languages
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-  ### Game Developer 🎮
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-
-  ### Frontend
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  ### Development Tools
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br>
+<h2 align="left"> 📱 Tech Stack & Skills </h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,haskell,python,c,cpp,cs,asssembly" /> <br>
+    <img src="https://skillicons.dev/icons?i=docker,github,html,css,vscode,neovim,figma,git,kali,arch,unity" />
+  </a>
 </div>
 
 ---
